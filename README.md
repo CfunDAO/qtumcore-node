@@ -1,3 +1,7 @@
+CFun Node
+============
+A scan service will be added for CFun Data. Each Creativity will be marked and valued.
+
 Qtumcore Node
 ============
 
